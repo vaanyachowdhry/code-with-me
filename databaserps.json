@@ -1,0 +1,14 @@
+{
+ "sophia": {
+  "user": 2,
+  "computer": 1
+ },
+ "liam": {
+  "user": 0,
+  "computer": 0
+ },
+ "rose": {
+  "user": 1,
+  "computer": 1
+ }
+}
